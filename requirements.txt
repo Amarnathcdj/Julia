@@ -36,7 +36,7 @@ geopy==2.0.0
 googletrans==3.0.0
 hurry.filesize==0.9
 markdown==3.3.3
-nltk==3.8.1
+nltk==3.9
 pillow==8.0.1
 psycopg2-binary==2.8.6
 python-rapidjson==0.9.3
