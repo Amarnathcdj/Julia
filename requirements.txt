@@ -22,7 +22,7 @@ faker
 mapper==0.1.17
 scipy==1.10.0
 matplotlib==3.3.2
-opencv-python-headless==4.4.0.44
+opencv-python-headless==4.8.1.78
 scikit-image==0.17.2
 argparse==1.4.0
 imutils==0.5.3
